@@ -19,9 +19,9 @@
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
-    "mfmgroup.btdownload": "http://mfmgroup.vtexassets.com/_v/public/typings/v1/mfmgroup.btdownload@0.0.17/public/@types/mfmgroup.btdownload",
+    "mfmgroup.btdownload": "https://idealinedev--mfmgroup.myvtex.com/_v/private/typings/linked/v1/mfmgroup.btdownload@0.0.24+build1785522584/public/@types/mfmgroup.btdownload",
     "typescript": "3.9.7",
-    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.136.1/public/@types/vtex.render-runtime"
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.136.2/public/@types/vtex.render-runtime"
   },
   "resolutions": {
     "@types/jest": "26.0.15"
