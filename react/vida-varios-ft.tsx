@@ -5,7 +5,7 @@ import styles from './styles.css';
 const BtDownload = () => {
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = 'https://stermax.com.br/images_idealine/manuais/setembo/FT.VIDA30.60.75L-%20ATUALIZADO%20%281%29.zip';
+    link.href = 'https://stermax.com.br/images_idealine/manuais/outubro2026/FT.VIDA30.42.60.75L-%20ATUALIZADO.zip';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
