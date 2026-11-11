@@ -52,5 +52,14 @@
   },
   "btn-plena42-ft":{
     "component": "plena42-ft"
+  },
+  "btn-cinco-oito-litros":{
+    "component": "cinco-oito-litros-manual"
+  },
+  "btn-jolie":{
+    "component": "jolie-manual"
+  },
+  "btn-jolie-ft":{
+    "component": "jolie-ft"
   }
 }
